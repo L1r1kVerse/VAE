@@ -24,6 +24,7 @@ This project explores and implements ideas proposed in the landmark deep learnin
 
 #### Blogs:
 - &nbsp; [The Reparameterization Trick](https://gregorygundersen.com/blog/2018/04/29/reparameterization/)
+- &nbsp; [VAE from scracth](https://medium.com/@sofeikov/implementing-variational-autoencoders-from-scratch-533782d8eb95)
 
 
 
