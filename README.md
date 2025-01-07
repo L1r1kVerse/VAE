@@ -18,9 +18,9 @@ This project explores and implements ideas proposed in the landmark deep learnin
 ### Paper and Blog References:
 
 #### Papers:
-<input type="checkbox" disabled> [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) <br>
-<input type="checkbox" disabled> [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)<br>
-<input type="checkbox" disabled> [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691)
+- [x]  [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) <br>
+- [x] [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)<br>
+- [x] [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691)
 
 #### Blogs:
 - &nbsp; [The Reparameterization Trick](https://gregorygundersen.com/blog/2018/04/29/reparameterization/)
