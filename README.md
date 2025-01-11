@@ -1,4 +1,4 @@
-# Variatinal Autoencoder (VAE)
+# Variational Autoencoder (VAE)
 This project explores and implements ideas proposed in the landmark deep learning paper "Auto-Encoding Variational Bayes".
 
 ## Project Structure
