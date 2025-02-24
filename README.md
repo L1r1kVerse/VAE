@@ -4,10 +4,10 @@ This project explores and implements ideas proposed in the landmark deep learnin
 ## Project Structure
 - **`VAE.ipynb`**: The main notebook, containing exploration of the main ideas of the paper.
 
-- **`VAE_implementation.ipynb`**: A notebook implementing first an Autoencoder and then a Variational Autoencoder using the ideas from the paper
+- **`VAE_implementation.ipynb`**: A notebook implementing first an Autoencoder and then a Variational Autoencoder using the ideas from the paper.
 
 - **`Secondary files:`**:
-    - **`helper_functions.py:`**: Helper functions for the project
+    - **`helper_functions.py:`**: Helper functions for the project.
   
 
 ## Results
